@@ -1,7 +1,7 @@
 {
   "name": "simple-test-module",
   "version": "1.0.0",
-  "description": "Simple test module",
+  "description": "Simple test module to show npm publish artifactory integration",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
