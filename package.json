@@ -7,8 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Olivier Thomann",
-  "license": "EPL",
+  "license": "Eclipse1.0",
   "dependencies": {
-    "uuid/v4": "^3.0.1"
+    "uuid": "^3.0.1"
   }
 }
