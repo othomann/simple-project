@@ -10,4 +10,4 @@
  *******************************************************************************/
 /*eslint-env node */
 const uuidV4 = require('uuid/v4');
-console.log("next uuid(v4) = " + uuidV4());
+console.log("Next uuid(v4) = " + uuidV4());
