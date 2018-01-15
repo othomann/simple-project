@@ -12,4 +12,4 @@
 "use strict";
 
 const uuidV4 = require('uuid/v4');
-console.log("Next uuid(v4) = " + uuidV4());
+console.log("Next new uuid(v4) = " + uuidV4());
